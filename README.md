@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Sarah's Cat</title>
   <link rel="stylesheet" href="CSS.css" type="text/css">
 </head>
 <body>
