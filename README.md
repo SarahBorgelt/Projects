@@ -46,8 +46,8 @@
   <input type="email" placeholder="Enter Your Email Address">
   <br>
   <input type="password" placeholder="Make a Password"
- </section>
 <br>
 <input type="date">
 <br>
+</section>
 <footer> <P>&copy; 2025 Sarah's Pet Website</P></footer>
