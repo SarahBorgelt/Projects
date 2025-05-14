@@ -17,6 +17,7 @@
 <li>Penne</li>
 </ul>
 <img src="https://i.pinimg.com/736x/39/02/8e/39028eb990d2b100f307fac136f420bd.jpg" alt="A cat that looks like Penne" width=150px>
+  <br>
 <article>This is what my one year old cat named Penne looks like. Penne was rescued from an abandonned house and now lives an amazing life with daily treats, a cat tree taller than his human, numerous toys, and tons of cuddles.</article>
 </div>
 
