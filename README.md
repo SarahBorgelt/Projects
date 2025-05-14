@@ -45,7 +45,7 @@
   <br>
   <input type="email" placeholder="Enter Your Email Address">
   <br>
-  <input type="password" placeholder="Make a Password"
+  <input type="password" placeholder="Make a Password">
 <br>
 <input type="date">
 <br>
