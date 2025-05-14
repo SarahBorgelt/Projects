@@ -50,4 +50,4 @@
 <br>
 <input type="date">
 <br>
-<footer> <P&copy; 2025 Sarah's Pet Website<p></p></footer>
+<footer> <P>&copy; 2025 Sarah's Pet Website</P></footer>
