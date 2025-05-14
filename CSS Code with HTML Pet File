@@ -1,0 +1,31 @@
+h1 {  
+  color: white;
+  background-color: rgb(36,72,44);
+  text-align: center;
+  text-decoration: underline;
+  font-family: sans-serif;
+  /* padding: 50px; */
+  margin: 20px
+ }
+ 
+ div {
+   background-color: lime;
+ }
+ 
+ 
+ #cats {
+   background-color: blue;
+ }
+ 
+ .newsletter-sighup {
+   text-align: center;
+   border: 2px solid turquoise: ;
+ }
+ 
+ ul {
+   list-style-type: none
+ }
+ 
+ img:hover {
+   width: 100%
+ }
