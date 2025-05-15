@@ -16,7 +16,7 @@
 <ul class="List of Cats"> 
 <li>Penne</li>
 </ul>
-<img src="https://i.pinimg.com/736x/39/02/8e/39028eb990d2b100f307fac136f420bd.jpg" alt="A cat that looks like Penne" width=150px>
+<img src="https://i.pinimg.com/736x/39/02/8e/39028eb990d2b100f307fac136f420bd.jpg" alt="A cat that looks like Penne" width="150px">
   <br>
 <article>This is what my one year old cat named Penne looks like. Penne was rescued from an abandoned house and now lives an amazing life with daily treats, a cat tree taller than his human, numerous toys, and tons of cuddles.</article>
 </div>
@@ -24,20 +24,21 @@
 <div id=""></div>
   <h4>Sarah's Former Pets</h4>
   <ul
-  class="list of former pets"></ul>
+  class="list of former pets">
   <li>Rosie</li>
   <li>Angel</li>
   <li>Frankie</li>
+    </ul>
   <div>
   
   </div>
-  <img src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200" alt="A random cat from the internet that looks like Angel" width=150px>
-  <div id="Other creatures>"</div>
+  <img src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200" alt="A random cat from the internet that looks like Angel" width="150px">
+  <div id="Other creatures"></div>
   <h4>Other Friendly Creatures Sarah Has Met</h4>
   <li>Bobby McGhee (The Horse)</li>
   <li>Cici (The Horse)</li>
   <li>Misty (The Horse)</li>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsKPoBhCDQMoC7-K8-rn7HUsz2xIsQDRiYAw&s" alt="a horse that looks like Cici" width="150px">
+  <img src="https://www.wildmountainfarms.com/uploads/1/0/0/6/100687208/blackhorses-13_orig.jpg" alt="a horse that looks like Cici" width="150px">
   </section>
 
 <section class="newsletter-signup">
