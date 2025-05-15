@@ -39,7 +39,7 @@
   <li>Bobby McGhee (The Horse)</li>
   <li>Cici (The Horse)</li>
   <li>Misty (The Horse)</li>
-  </ul>ul
+  </ul>
   <img src="https://www.wildmountainfarms.com/uploads/1/0/0/6/100687208/blackhorses-13_orig.jpg" alt="a horse that looks like Cici" width="150px">
   </section>
 
@@ -53,5 +53,8 @@
 <input type="date">
 <br>
 </section>
+</body>
 <footer> <P>&copy; 2025 Sarah's Pet Website</P></footer>
+</html>
+
 
