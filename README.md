@@ -53,8 +53,8 @@
 <input type="date">
 <br>
 </section>
-</body>
 <footer> <P>&copy; 2025 Sarah's Pet Website</P></footer>
+</body>
 </html>
 
 
