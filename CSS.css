@@ -10,6 +10,8 @@ h1 {
  
  div {
    background-color: lime;
+   padding: 10px;
+   min-height: 50px;
  }
  
  
@@ -21,6 +23,9 @@ h1 {
    text-align: center;
    background-color: black;
    border: 2px solid turquoise;
+   padding: 20px;
+   margin: 10px;
+   color: white;
  }
  
  ul {
