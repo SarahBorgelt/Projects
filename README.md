@@ -33,7 +33,7 @@
   
   </div>
   <img src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200" alt="A random cat from the internet that looks like Angel" width="150px">
-  <div id="Other creatures"></div>
+  <div id="Other-creatures"></div>
   <h4>Other Friendly Creatures Sarah Has Met</h4>
   <li>Bobby McGhee (The Horse)</li>
   <li>Cici (The Horse)</li>
