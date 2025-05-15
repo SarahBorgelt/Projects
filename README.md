@@ -37,7 +37,7 @@
   <li>Bobby McGhee (The Horse)</li>
   <li>Cici (The Horse)</li>
   <li>Misty (The Horse)</li>
-  <img src="https://cdn.shopify.com/s/files/1/0599/5482/3264/files/Murgese.jpg?v=1739945184" alt="a horse that looks like Cici" width="150px"
+  <img src="https://cdn.shopify.com/s/files/1/0599/5482/3264/files/Murgese.jpg?v=1739945184" alt="a horse that looks like Cici" width="150px">
   </section>
 
 <section class="newsletter-signup">
