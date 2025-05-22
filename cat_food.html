@@ -17,14 +17,13 @@
       <li><a href="pet_adoption.html">Pets for Adoption</a></li>
       <li><a href="about_me.html">About Me</a></li>
       </ul>
-      </div>
     </nav>
     <div class="content-area">
-    <header><strong>How Many Calories Does Your Cat Need?</strong></header>
+    <h1>How Many Calories Does Your Cat Need?</h1>
     <p>To determine how many calories your cat needs, please use the calculator below:</p>
    <form id="catCalculator">
-   <label for "Cat Age"></label>
-   <p>1) Please select the option that best fits your cat</p>
+   <div class="form-group">
+   <label for="ageDropdown">1) Please select the option that best describes your cat's body type.</label>
    <select id = "ageDropdown" name = ageDropdown>
      <option value = ""></option>    
      <option value = "Growing Kitten">Growing Kitten</option>    
@@ -32,7 +31,9 @@
      <option value = "Intact Adult">Intact Adult</option>
      <option value = "Obese Adult">Obese Adult</option>
    </select>
-   <p>2) What is your cat's body weight in pounds?</p>
+   </div>
+   <div class="form-group">
+   <label for="weightDropdown">2) What is your cat's body weight (lbs)?</label>
       <select id = "weightDropdown" name = weightDropdown>
      <option value = ""></option>    
      <option value = "4">4</option>    
@@ -43,13 +44,15 @@
      <option value = "9">9</option>
      <option value = "10">10</option>
    </select>
+   </div>
    </form>
    <div class = "space">
-   <button type="button" onclick="calculateCalories">Calculate Calorie Need</button>
+   <button type="button" onclick="calculateCalories()">Calculate Calorie Need</button>
    </div>
-   <footer><strong><p> &copy 2025 Whisker Wishes | Designed by Sarah Borgelt</p></strong></footer>
    <script src="calculateCalories.js"></script>
    </div>
-   </div>
+  </div>
+  <footer><strong><p> &copy 2025 Whisker Wishes | Designed by Sarah Borgelt</p></strong></footer>
+</div>
 </body>
 </html>
